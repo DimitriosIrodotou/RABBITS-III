@@ -1,0 +1,35 @@
+######################################################
+#Files generated when compiling relagn/relqso in xspec
+######################################################
+
+Makefile
+lib*
+lpack*
+pkgIndex.tcl
+*FunctionMap*
+relagn.o
+relqso.o
+
+
+########################################################
+#LaTeX
+########################################################
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+
+
+####################
+#pychace and jupyter
+####################
+__pycache__
+.ipynb_checkpoints
+
+
+##################################
+#Seemingly random nuesance files...
+###################################
+._*
